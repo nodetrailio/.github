@@ -8,6 +8,8 @@ Nodetrail is a read-only onchain checker for Solana tokens and the wallets that 
 
 **On-chain sight, security tight.**
 
+Built for Solana today, with more chains coming.
+
 ## What we do
 
 - Check a Solana token and the wallet that created it, in seconds, at [nodetrail.io](https://nodetrail.io) or with [@nodetrailbot](https://t.me/nodetrailbot)
@@ -21,6 +23,6 @@ Nodetrail is a read-only onchain checker for Solana tokens and the wallets that 
 
 ## Security
 
-The checker engine is private. We never message you first, and we never ask for a seed phrase, private keys, or a wallet connect.
+The checker engine is private. We never message you first, and we never ask for a seed phrase, private keys, or a wallet connect. Anyone who does is not Nodetrail.
 
-Report impersonators and issues at [nodetrail.io/security](https://nodetrail.io/security).
+Report impersonators and security issues at [nodetrail.io/security](https://nodetrail.io/security). Do not open a public GitHub issue for a security report, and never include a seed phrase or private key.
