@@ -4,11 +4,11 @@
 
 # Nodetrail
 
-Nodetrail is a read-only onchain checker for tokens and the wallets behind them, on 10 chains.
+Nodetrail is a read-only onchain checker for tokens and the wallets behind them, on 61 chains.
 
 **Scan first. Ape different.™**
 
-Chains: Solana, Ethereum, Base, Arbitrum, BNB Chain, Avalanche, Sui, NEAR, XRP Ledger and Robinhood Chain.
+Full chain list: [nodetrail.io/developers](https://nodetrail.io/developers). Hyperliquid is coming soon.
 
 ## What we do
 
@@ -20,7 +20,7 @@ Chains: Solana, Ethereum, Base, Arbitrum, BNB Chain, Avalanche, Sui, NEAR, XRP L
 
 ## Official links
 
-[Site](https://nodetrail.io) · [Scan](https://nodetrail.io/scan) · [Developers](https://nodetrail.io/developers) · [X](https://x.com/nodetrailio) · [Telegram](https://t.me/nodetrailio) · [YouTube](https://www.youtube.com/@nodetrailio) · [Discord](https://discord.gg/aPYz2NN7gC) · [Bot](https://t.me/nodetrailbot) · [GitHub](https://github.com/nodetrailio) · [Security](https://nodetrail.io/security)
+[Site](https://nodetrail.io) · [Scan](https://nodetrail.io/scan) · [Developers](https://nodetrail.io/developers) · [X](https://x.com/nodetrailio) · [Telegram](https://t.me/nodetrailio) · [YouTube](https://www.youtube.com/@nodetrailio) · [TikTok](https://www.tiktok.com/@nodetraillabsllc) · [Discord](https://discord.gg/aPYz2NN7gC) · [Bot](https://t.me/nodetrailbot) · [GitHub](https://github.com/nodetrailio) · [Security](https://nodetrail.io/security)
 
 ## Security
 
